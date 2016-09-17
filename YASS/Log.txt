@@ -1,0 +1,16 @@
+My Diary for YASS (Yet Another Space Shooter)
+=============================================
+
+30.08.2016
+Started with creating a simple game engine framework based on my former
+experiences.
+Created classes for constants, game, game mode and a main function. The
+framework has to prepared to support levels.
+Worked on that around 3 hours (netto time).
+
+31.08.2016
+Start: 08:56
+Thought about the process of Mode Handling. Began implementing ModeHandler
+class and AttractMode and PlayMode classes.
+Looking into the functionality on a State Machine pattern
+End: 12:07
